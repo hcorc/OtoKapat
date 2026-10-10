@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ OtoKapat (HK)
+# ⚡ OtoKapat
 
 **Windows İçin Akıllı Otomatik Kapatıcı & İndirme Takipçisi**  
 *Gelişmiş WPF XAML Arayüzü | Saf PowerShell 5.1+ | Kurulum Gerektirmez*
